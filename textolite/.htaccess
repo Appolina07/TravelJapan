@@ -1,7 +1,7 @@
 
 RewriteEngine on
 
-DirectoryIndex textolite.php
+DirectoryIndex index.php
 
 RewriteCond %{REQUEST_FILENAME} !-f
 
